@@ -1,4 +1,4 @@
-# Interview Scheduling System API Gateway with Docker, PostgreSQL, NestJS, and Typeform Integration
+# Interview Scheduling System API Gateway with Docker, PostgreSQL, NestJS, and TypeOrm Integration
 Develop an API gateway for a corporate interview scheduling system employing Docker, PostgreSQL, NestJS, and typeorm integration. 
 
 Here are the key functionalities:
